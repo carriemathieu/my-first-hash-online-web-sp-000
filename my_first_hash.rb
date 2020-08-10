@@ -1,5 +1,5 @@
 def my_hash
-  my_hash = {"NASA"
+  my_hash = {"Python" => "Snake", "Ruby" => "Gem", "C" => "Letter"
 end
 
 
